@@ -35,7 +35,7 @@
   "dependencies": {
     "lodash": "^4.17.15",
     "mathjax-full": "3.0.0",
-    "transformation-matrix": "^2.1.0"
+    "transformation-matrix": "git+https://github.com/docvhcm/transformation-matrix.git"
   },
   "peerDependencies": {
     "react": "*",
